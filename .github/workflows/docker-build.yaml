@@ -109,7 +109,7 @@ jobs:
           organization: ajeetraina  
           exit-code: true
 
-    - name: Build
+    - name: Builder
       on:
         push:
           branches:
