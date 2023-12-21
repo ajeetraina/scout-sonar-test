@@ -18,4 +18,4 @@ COPY . /app
 
 CMD ["node","/app/app.js"]
 
-EXPOSE 3000 3002
+EXPOSE 3000 
